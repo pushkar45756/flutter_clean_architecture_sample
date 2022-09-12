@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036289352099",
+    "project_id": "cleanarchtechflutter",
+    "storage_bucket": "cleanarchtechflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036289352099:android:3a798066d8f376eaf1ba16",
+        "android_client_info": {
+          "package_name": "com.example.flutter_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036289352099-11a417rvs2cnaupfd4l7oj26kpsk6pdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0Z-Lj02KO1SODQFCxlqV9CtvFUuSYy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036289352099-11a417rvs2cnaupfd4l7oj26kpsk6pdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
